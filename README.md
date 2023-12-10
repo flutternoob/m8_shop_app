@@ -1,6 +1,6 @@
 # m8_shop_app
 
-A new Flutter project.
+Udemy Course - Shop App.
 
 ## Getting Started
 
